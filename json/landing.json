@@ -34,5 +34,5 @@
     }
   ],
   "canRegisterAccount":true,
-  "registerLink":"https://www.youtube.com"
+  "register":{ "name":"Create Account", "link":"https://www.youtube.com" }
 }
