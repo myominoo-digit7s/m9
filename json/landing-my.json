@@ -1,0 +1,41 @@
+{
+  "name":"M9",
+  "subtitle":"SHAN KOE MEE",
+  "logo":"https://static.gameloop.com/img/b35cc6fd56b78844ce156e8bc0b715ff.png?imageMogr2/thumbnail/172.8x172.8/format/webp",
+  "background":"https://static.vecteezy.com/system/resources/previews/037/205/583/non_2x/abstract-future-city-skyline-with-an-arch-retro-illustration-flat-illustration-vector.jpg",
+  "serviceLabel":false,
+  "services":[
+    {
+      "name":"Big Win Big Pay",
+      "image":"https://i.pinimg.com/236x/03/54/9b/03549b3e889f9c71f930cb046644f0a0.jpg",
+      "link":"https://www.google.com"
+    },
+    {
+      "name":"Test Server 1",
+      "image":"https://foodmanpa.com/wp-content/uploads/Shutterstock-casino-scaled.jpg",
+      "link":"https://www.pinterest.com/"
+    },
+    {
+      "name":"Test Server 2",
+      "image":"https://static.vecteezy.com/system/resources/previews/003/416/760/non_2x/casino-logo-on-a-green-background-flying-gold-coins-free-vector.jpg",
+      "link":"https://www.youtube.com"
+    }
+  ],
+  "contacts":[
+    {
+    "name":"Viber မှတစ်ဆင့် ဆက်သွယ်ရန်",
+    "logo":"https://raw.githubusercontent.com/myominoo-digit7s/m9/refs/heads/main/viber%20(1).png",
+    "link:":"https://cutt.ly/dpdeposit"
+  },
+  {
+    "name":"Telegram မှတစ်ဆင့် ဆက်သွယ်ရန်",
+    "logo":"https://raw.githubusercontent.com/myominoo-digit7s/m9/refs/heads/main/telegram.png",
+    "link:":"https://t.me/domepyan990_bot"
+  }
+  ],
+  "canRegisterAccount":true,
+  "register":{
+    "name":"အကောင့် ဖန်တီးရန်",
+    "link":"https://www.youtube.com"
+  }
+}
