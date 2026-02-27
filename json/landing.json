@@ -24,14 +24,14 @@
     {
       "name":"Continue via Viber",
       "logo":"",
-      "link:":"viber://chat?number=%2B1234567890",
+      "link:":"viber://chat?number=%2B1234567890"
     },
     {
       "name":"Continue via Telegram",
       "logo":"",
-      "link:":"t.me/username",
+      "link:":"t.me/username"
     }
   ],
   "canRegisterAccount":true,
-  "registerLink":"https://www.youtube.com",
+  "registerLink":"https://www.youtube.com"
 }
