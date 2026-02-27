@@ -24,12 +24,12 @@
     {
       "name":"Continue via Viber",
       "logo":"",
-      "link:":"viber://chat?number=%2B1234567890"
+      "link:":"https://cutt.ly/dpdeposit"
     },
     {
       "name":"Continue via Telegram",
       "logo":"",
-      "link:":"t.me/username"
+      "link:":"https://t.me/domepyan990_bot"
     }
   ],
   "canRegisterAccount":true,
